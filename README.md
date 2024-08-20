@@ -13,13 +13,13 @@ Establish why Azure is an essential platform to accelerate innovation with AI at
 - Being AI-ready requires a solid foundation in the cloud
 - Azure provides a powerful, secure, and adaptive cloud foundation to accelerate innovation with AI
 
-## Additional Resources and Continued Learning
+## Session Resources
 You can find additional resources, including the slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| BRK370 PPT Presentation  | [Link 1](https://www.google.com/) | Learn more about X |
+| BRK370 Session Recording | [Link 2](https://aka.ms/AArvodp/) | A recording of Patrick walking through the slides |
 
 ## Content Owners
 Patrick Widjaja (pwidjaja@microsoft.com)
