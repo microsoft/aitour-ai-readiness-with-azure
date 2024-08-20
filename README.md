@@ -11,7 +11,7 @@ Establish why Azure is an essential platform to accelerate innovation with AI at
 
 ## Key audience takeaways
 - Being AI-ready requires a solid foundation in the cloud
-- Azure is provides a powerful, secure, and adaptive cloud foundation to accelerate innovation with AI
+- Azure provides a powerful, secure, and adaptive cloud foundation to accelerate innovation with AI
 
 ## Additional Resources and Continued Learning
 You can find additional resources, including the slides of the presentation here.
@@ -22,10 +22,7 @@ You can find additional resources, including the slides of the presentation here
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
-Patrick Widjaja, Nate Waters, Devon Allen
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
+Patrick Widjaja (pwidjaja@microsoft.com)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
