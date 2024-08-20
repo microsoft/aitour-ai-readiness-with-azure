@@ -20,7 +20,7 @@ You can find additional resources, including the slides of the presentation here
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
-TODO: Add yourself as a content owner
+Patrick Widjaja, Nate Waters, Devon Allen
 1. Change the src in the image tag to {your github url}.png
 2. Change INSERT NAME HERE to your name
 3. Change the github url in the final href to your url.
