@@ -6,13 +6,11 @@ To help prepare content for AI Tour, please use this template repository for org
 5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
 
 
-# [TODO: Insert Session Title]
-
-This repo is intended as a template for Microsoft AI Tour repositories
+# Pave the path to AI-readiness with Azure
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+Many organizations exploring the potential of AI overlook a critical consideration – is their technology estate ready to scale and innovate? Learn why Azure is the right platform to help you fully realize your AI ambitions.
 
 ## Learning Outcomes
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
