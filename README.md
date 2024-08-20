@@ -18,7 +18,7 @@ You can find additional resources, including the slides of the presentation here
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK370 PPT Presentation  | [Link 1](https://www.google.com/) | Learn more about X |
+| BRK370 PPT Presentation  | [Link 1](https://www.bing.com/) | Coming soon|
 | BRK370 Session Recording | [Link 2](https://aka.ms/AArvodp/) | A recording of Patrick walking through the slides |
 
 ## Content Owners
