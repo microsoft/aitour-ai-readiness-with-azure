@@ -22,7 +22,7 @@ You can find additional resources, including the slides of the presentation here
 | BRK370 Session Recording | [Link 2](https://aka.ms/AArvodp/) | A recording of Patrick walking through the slides |
 
 ## Content Owners
-Patrick Widjaja, Title
+Patrick Widjaja, Title, Microsoft
 
 
 
