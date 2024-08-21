@@ -2,7 +2,7 @@
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK370%20Pave%20the%20Path.png)
 
-## Session Desciption
+## Session Description
 
 Many organizations exploring the potential of AI overlook a critical consideration – is their technology estate ready to scale and innovate? Learn why Azure is the right platform to help you fully realize your AI ambitions.
 
