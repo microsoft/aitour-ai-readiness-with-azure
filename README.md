@@ -1,4 +1,4 @@
-# Pave the path to AI-readiness with Azure
+# BRK370: Pave the path to AI-readiness with Azure
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK370%20Pave%20the%20Path.png)
 
