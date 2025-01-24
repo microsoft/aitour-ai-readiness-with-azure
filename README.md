@@ -4,7 +4,7 @@
 
 ## Session Description
 
-Many organizations exploring the potential of AI overlook a critical consideration – is their technology estate ready to scale and innovate? Learn why Azure is the right platform to help you fully realize your AI ambitions.
+Many organizations exploring the potential of AI overlook a critical consideration – is their technology estate ready to scale and innovate? Learn how to scale AI with Microsoft Azure's secure, adaptive, and purpose-built cloud infrastructure
 
 ## Goal
 Establish why Azure is an essential platform to accelerate innovation with AI at scale
