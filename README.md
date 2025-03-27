@@ -19,8 +19,8 @@ You can find additional resources, including the slides of the presentation here
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | BRK370 English PPT Presentation  | [Link](https://aka.ms/AArx9vb) | Full presentation deck in US English|
-| BRK370 Korean PPT Presentation  | [Link](https://aka.ms/AAv6jjc)| Full presentation deck in Korean -- Coming soon|
-| BRK370 Japanese PPT Presentation  | [Link](https://aka.ms/AAv6jje)| Full presentation deck in Japanese -- Coming soon|
+| BRK370 Korean PPT Presentation  | [Link](https://aka.ms/AAv6jjc)| Full presentation deck in Korean|
+| BRK370 Japanese PPT Presentation  | [Link](https://aka.ms/AAv6jje)| Full presentation deck in Japanese|
 
 ## Content Owners
 Patrick Widjaja, Product Marketing Manager, Microsoft
